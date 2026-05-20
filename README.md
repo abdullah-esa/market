@@ -672,7 +672,7 @@ When reporting issues, please include:
 |----------|------|
 | **GitHub Issues** | Report bugs and feature requests |
 | **Documentation** | This file contains complete docs |
-| **Security Issues** | Email security@example.com |
+| **Security Issues** | Email abd10esa@gmail.com |
 
 ---
 
@@ -704,8 +704,8 @@ When reporting issues, please include:
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/marketplace-pro.git
-cd marketplace-pro
+git clone https://github.com/abdullah-esa/marketplace.git
+cd marketplace
 cp config/database.example.php config/database.php
 mkdir -p uploads/products
 mysql -u root -p < database/schema.sql
